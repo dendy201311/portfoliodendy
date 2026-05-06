@@ -1,0 +1,1 @@
+export default function Home(){return <h1 className='text-white bg-black h-screen flex items-center justify-center text-5xl'>Dendy Premium Portfolio</h1>}
